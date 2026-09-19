@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou Fernanda Potye
 
-<!--
-**ferpotye/ferpotye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Automation Developer | 🐍 Python | AI Agents
 
-Here are some ideas to get you started:
+Estou construindo minha jornada em **programação, Inteligência Artificial e automação**, transformando ideias e problemas reais em soluções práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Atualmente estudando
+
+* 🐍 Python
+* 🤖 Inteligência Artificial
+* ⚙️ Automação
+* 🔗 APIs
+* 🧩 Agentes de IA
+* 🐙 Git & GitHub
+
+---
+
+## 🚀 Projetos
+
+🔨 **Em construção...**
+
+Meu portfólio está sendo desenvolvido enquanto avanço em Python, automação, APIs e Inteligência Artificial.
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções utilizando **programação + IA + automação**, criando ferramentas capazes de resolver problemas reais e gerar valor para pessoas e empresas.
+
+---
+
+## 🛠️ Tecnologias
+
+`Python` `Git` `GitHub` `APIs` `AI` `Automation`
+
+---
+
+### 📫 Conecte-se comigo
+
+**GitHub:** [@ferpotye](https://github.com/ferpotye)
