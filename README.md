@@ -1,42 +1,63 @@
-# 👋 Olá, eu sou Fernanda Potye
+# 👋 Olá! Eu sou a Fernanda
 
-### 🤖 AI & Automation Developer | 🐍 Python | AI Agents
+💻 Desenvolvendo projetos com **Python, Inteligência Artificial e análise de dados**.
 
-Estou construindo minha jornada em **programação, Inteligência Artificial e automação**, transformando ideias e problemas reais em soluções práticas.
+Atualmente estou construindo projetos práticos para transformar meus estudos em aplicações reais, explorando desenvolvimento de software, dados e IA generativa.
 
----
+## 🚀 Projeto em destaque
 
-## 🧠 Atualmente estudando
+### 💰 FinPilot
 
-* 🐍 Python
-* 🤖 Inteligência Artificial
-* ⚙️ Automação
-* 🔗 APIs
-* 🧩 Agentes de IA
-* 🐙 Git & GitHub
+**Sistema de gestão financeira pessoal desenvolvido em Python, com análise de dados e Inteligência Artificial Generativa local.**
 
----
+O projeto evoluiu de uma aplicação financeira em terminal para uma plataforma com:
 
-## 🚀 Projetos
+* 📊 Dashboard interativo
+* 💰 Controle de receitas e despesas
+* 🎯 Metas financeiras
+* 📥 Importação de extratos CSV/XLSX
+* 📈 Análises e insights financeiros
+* 📄 Relatórios
+* ⚙️ Automação de relatórios
+* 🤖 Assistente conversacional com IA generativa
+* 🧠 Memória de conversa
+* 🔒 Processamento local utilizando Ollama e Qwen 2.5
 
-🔨 **Em construção...**
-
-Meu portfólio está sendo desenvolvido enquanto avanço em Python, automação, APIs e Inteligência Artificial.
-
----
-
-## 🎯 Objetivo
-
-Desenvolver soluções utilizando **programação + IA + automação**, criando ferramentas capazes de resolver problemas reais e gerar valor para pessoas e empresas.
-
----
+👉 **[Conheça o FinPilot](https://github.com/ferpotye/python-ia-lab/tree/main/finpilot)**
 
 ## 🛠️ Tecnologias
 
-`Python` `Git` `GitHub` `APIs` `AI` `Automation`
+**Linguagens e dados**
+
+`Python` `SQL` `Pandas` `NumPy`
+
+**IA**
+
+`Generative AI` `Ollama` `Qwen`
+
+**Aplicações**
+
+`Streamlit` `SQLite` `Plotly`
+
+**Ferramentas**
+
+`Git` `GitHub`
+
+## 📚 Em constante aprendizado
+
+Estou desenvolvendo projetos práticos enquanto aprofundo meus conhecimentos em:
+
+* Python
+* Inteligência Artificial
+* IA Generativa
+* Análise de dados
+* Automação
+* Desenvolvimento de aplicações
+
+## 📌 Objetivo
+
+Construir projetos que unam **programação, dados e Inteligência Artificial** para resolver problemas reais e continuar evoluindo profissionalmente.
 
 ---
 
-### 📫 Conecte-se comigo
-
-**GitHub:** [@ferpotye](https://github.com/ferpotye)
+⭐ Obrigada pela visita!
